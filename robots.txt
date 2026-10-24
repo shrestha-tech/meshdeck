@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shrestha-tech.github.io/meshdeck/sitemap.xml
